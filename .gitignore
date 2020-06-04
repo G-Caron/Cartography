@@ -128,6 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.html linguist-detectable=false
-*.js linguist-detectable=false
-*.python linguist-detectable=true
